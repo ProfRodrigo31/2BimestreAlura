@@ -1,4 +1,4 @@
-![image](https://github.com/ProfRodrigo31/2BimestreAlura/assets/167783798/305e5e80-e170-47be-8878-f53e6653ca6a)Boas vindas ao meu perfil 💙💙
+Boas vindas ao meu perfil 💙💙
 - Meu nome é nome sobrenome
 
 - Estou estudando na Alura
@@ -10,4 +10,4 @@ Você pode entrar em contato comigo 📫
 
 - @alurastartestudante
 
-![]([link](https://media.tenor.com/eVcQy8728pcAAAAM/room.gif))
+![](https://media.tenor.com/eVcQy8728pcAAAAM/room.gif)
